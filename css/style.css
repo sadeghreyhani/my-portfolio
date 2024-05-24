@@ -22,8 +22,8 @@ body {
 .header {
   background-image: linear-gradient(
       to right bottom,
-      rgba(126, 213, 111, 0.8),
-      rgba(40, 180, 133, 0.8)
+      rgba(255, 222, 58, 0.804),
+      rgba(244, 207, 20, 0.804)
     ),
     url(../img/hero.jpg);
   background-size: cover;
@@ -38,7 +38,7 @@ body {
   left: 40px;
 }
 .logo {
-  height: 35px;
+  height: 75px;
 }
 .text-box {
   position: absolute;
@@ -52,16 +52,16 @@ body {
   font-weight: 400;
 }
 .header-primary-main {
-  font-size: 60px;
-  letter-spacing: 35px;
+  font-size: 40px;
+  letter-spacing: 15px;
   display: block;
   animation-name: moveInRight;
   animation-duration: 1s;
   animation-timing-function: ease-in-out;
 }
 .header-primary-sub {
-  font-size: 30px;
-  letter-spacing: 18.8px;
+  font-size: 20px;
+  letter-spacing: 17.2px;
   display: block;
   animation-name: moveInLeft;
   animation-duration: 1s;
