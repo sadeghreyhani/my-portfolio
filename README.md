@@ -75,6 +75,6 @@ This project is licensed under the [MIT License](LICENSE).
 If you have any questions, suggestions, or would like to discuss potential collaborations, you can reach me through the following channels:
 
 - Email: [sadeghreyhaniii@gmail.com](mailto:sadeghreyhaniii@gmail.com)
-- Phone: +989027926005
+- Phone: [+989027926005](tel:+989027926005)
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your-username) as well.
+Feel free to connect with me on [Telgram](https://t.me/sadegh_reyhani) as well.
